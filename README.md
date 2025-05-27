@@ -88,3 +88,5 @@ OUTPUT:
 
 DATASET IMAGE:
 
+![Image](https://github.com/user-attachments/assets/4e62fed8-5938-40a6-8aa5-0311f7ee417b)
+
